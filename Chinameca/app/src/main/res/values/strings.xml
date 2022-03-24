@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chinameca</string>
+    <string name="product_msg_loading">Preparando todo...</string>
+    <string name="version">Power by webforallsv.com - v1.0.0</string>
+</resources>

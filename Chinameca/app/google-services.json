@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632428019703",
+    "project_id": "prototipo-f8876",
+    "storage_bucket": "prototipo-f8876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632428019703:android:ee55a300359eb0e69cb8f2",
+        "android_client_info": {
+          "package_name": "com.chinameca.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632428019703-39ocj1jf07u7dvjnkhs30bb3pjt0umbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chinameca.app",
+            "certificate_hash": "110ce3263a55b2e869c7d1aa2198ab2351eca97c"
+          }
+        },
+        {
+          "client_id": "632428019703-bljcl3l9ath80sjaon9rauo6s30qut7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj6AkXo-zfwqkXZ79U7I0kA6GUABdy364"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632428019703-bljcl3l9ath80sjaon9rauo6s30qut7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
